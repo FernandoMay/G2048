@@ -1,0 +1,13 @@
+/home/fmay/dominic/g2048/contract/target/release/deps/wasmi_core-4ef57b4ce99b6952.rmeta: /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/lib.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/host_error.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/nan_preserving_float.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/trap.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/untyped.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/value.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/vmem.rs
+
+/home/fmay/dominic/g2048/contract/target/release/deps/libwasmi_core-4ef57b4ce99b6952.rlib: /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/lib.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/host_error.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/nan_preserving_float.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/trap.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/untyped.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/value.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/vmem.rs
+
+/home/fmay/dominic/g2048/contract/target/release/deps/wasmi_core-4ef57b4ce99b6952.d: /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/lib.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/host_error.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/nan_preserving_float.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/trap.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/untyped.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/value.rs /home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/vmem.rs
+
+/home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/lib.rs:
+/home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/host_error.rs:
+/home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/nan_preserving_float.rs:
+/home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/trap.rs:
+/home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/untyped.rs:
+/home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/value.rs:
+/home/fmay/.cargo/git/checkouts/wasmi-664b4fa3b9f5b6d7/3a0b102/core/src/vmem.rs:

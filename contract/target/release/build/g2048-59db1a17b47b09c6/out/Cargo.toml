@@ -1,0 +1,27 @@
+[dependencies.orig-project]
+default-features = false
+package = "g2048"
+path = "/home/fmay/dominic/g2048/contract"
+
+[features]
+
+[lib]
+crate-type = ["cdylib"]
+name = "g2048"
+
+[package]
+edition = "2021"
+name = "g2048-wasm"
+version = "0.1.0"
+
+[profile.dev]
+opt-level = "s"
+
+[profile.production]
+inherits = "release"
+
+[profile.release]
+lto = true
+opt-level = "s"
+
+[workspace]

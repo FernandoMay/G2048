@@ -1,0 +1,12 @@
+/home/fmay/dominic/g2048/contract/target/release/deps/base16ct-fe7cbd8d2d7cafdb.rmeta: /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/lib.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/lower.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/mixed.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/upper.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/display.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/error.rs
+
+/home/fmay/dominic/g2048/contract/target/release/deps/libbase16ct-fe7cbd8d2d7cafdb.rlib: /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/lib.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/lower.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/mixed.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/upper.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/display.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/error.rs
+
+/home/fmay/dominic/g2048/contract/target/release/deps/base16ct-fe7cbd8d2d7cafdb.d: /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/lib.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/lower.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/mixed.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/upper.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/display.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/error.rs
+
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/lib.rs:
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/lower.rs:
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/mixed.rs:
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/upper.rs:
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/display.rs:
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.1.1/src/error.rs:

@@ -1,0 +1,11 @@
+/home/fmay/dominic/g2048/contract/target/release/deps/cargo_metadata-42cbea6f73c6d1cc.rmeta: /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/lib.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/dependency.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/diagnostic.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/errors.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/messages.rs
+
+/home/fmay/dominic/g2048/contract/target/release/deps/libcargo_metadata-42cbea6f73c6d1cc.rlib: /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/lib.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/dependency.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/diagnostic.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/errors.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/messages.rs
+
+/home/fmay/dominic/g2048/contract/target/release/deps/cargo_metadata-42cbea6f73c6d1cc.d: /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/lib.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/dependency.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/diagnostic.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/errors.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/messages.rs
+
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/lib.rs:
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/dependency.rs:
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/diagnostic.rs:
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/errors.rs:
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.3/src/messages.rs:

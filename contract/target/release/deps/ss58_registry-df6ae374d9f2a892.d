@@ -1,0 +1,14 @@
+/home/fmay/dominic/g2048/contract/target/release/deps/ss58_registry-df6ae374d9f2a892.rmeta: /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/lib.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/address_format.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/error.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/registry.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/token.rs /home/fmay/dominic/g2048/contract/target/release/build/ss58-registry-55201e7a4213ca29/out/registry_gen.rs
+
+/home/fmay/dominic/g2048/contract/target/release/deps/libss58_registry-df6ae374d9f2a892.rlib: /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/lib.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/address_format.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/error.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/registry.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/token.rs /home/fmay/dominic/g2048/contract/target/release/build/ss58-registry-55201e7a4213ca29/out/registry_gen.rs
+
+/home/fmay/dominic/g2048/contract/target/release/deps/ss58_registry-df6ae374d9f2a892.d: /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/lib.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/address_format.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/error.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/registry.rs /home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/token.rs /home/fmay/dominic/g2048/contract/target/release/build/ss58-registry-55201e7a4213ca29/out/registry_gen.rs
+
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/lib.rs:
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/address_format.rs:
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/error.rs:
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/registry.rs:
+/home/fmay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ss58-registry-1.40.0/src/token.rs:
+/home/fmay/dominic/g2048/contract/target/release/build/ss58-registry-55201e7a4213ca29/out/registry_gen.rs:
+
+# env-dep:OUT_DIR=/home/fmay/dominic/g2048/contract/target/release/build/ss58-registry-55201e7a4213ca29/out

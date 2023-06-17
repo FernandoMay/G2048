@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/fmay/dominic/g2048/contract/target/release/build/typenum-99509f91c3ecc426/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/fmay/dominic/g2048/contract/target/release/build/typenum-99509f91c3ecc426/out/op.rs
