@@ -1,5 +1,5 @@
 name: g2048
-description: A new Flutter project.
+description: A modern 2048 game with blockchain integration.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -30,6 +30,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  web3dart: ^2.7.1
+  http: ^1.1.0
+  provider: ^6.0.5
+  shared_preferences: ^2.2.1
+  flutter_riverpod: ^2.4.0
+  google_fonts: ^5.1.0
 
 
   # The following adds the Cupertino Icons font to your application.
