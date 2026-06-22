@@ -1,16 +1,22 @@
-# g2048
+# G2048
 
-A new Flutter project.
+An exciting decentralized 2048 game. Trade tokens and NFTs on the blockchain to enhance your moves and scores.
+
+## Overview
+
+| Attribute | Details |
+|-----------|---------|
+| **Language** | Rust |
+| **Size** | ~436.2 MB |
+| **Last Updated** | 2025-02-17T02:42:07Z |
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+git clone https://github.com/FernandoMay/G2048.git
+cd G2048
+```
 
-A few resources to get you started if this is your first Flutter project:
+## License
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MIT
